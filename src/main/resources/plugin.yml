@@ -1,0 +1,7 @@
+name: Craftonomica
+main: biz.craftonomica.craftonomica.Craftonomica
+version: 1.0.0.
+commands:
+  payto:
+    description: Pay a sum (experience) to another player.
+    usage: "usage: /payto <player (must be online)> <amount (integer)>"
