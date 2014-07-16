@@ -2,7 +2,7 @@ Craftonomica
 ============
 
 Craftonomica plugin for Bukkit
-Simple plugin to use "experience" as a currency in the game
+Simple plugin to use "experience level" as a currency in the game
 
 usage: 
 
